@@ -11,3 +11,4 @@ Notes from various textbooks, online books, resources, etc..
 * **Elements of Statistical Learning**
   * Some algs and visuals from scratch of ESL
   * https://hastie.su.domains/ElemStatLearn/
+* **Causal Inference: The Mixtape**
